@@ -1,0 +1,8 @@
+✅ Choose a pre-trained model (ResNet, MobileNet, YOLO, EfficientNet)
+✅ Set up the deep learning framework (TensorFlow/PyTorch)
+✅ Build a CNN model for classification
+✅ Train the model on the dataset
+✅ Fine-tune hyperparameters for better accuracy
+✅ Evaluate model performance (accuracy, precision, recall)
+✅ Save the trained model for deployment
+
