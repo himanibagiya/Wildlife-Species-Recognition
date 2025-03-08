@@ -1,0 +1,5 @@
+✅ Collect wildlife image datasets (from Kaggle, iNaturalist, Google Open Images, etc.)
+✅ Organize dataset (separate by species, label images)
+✅ Clean and preprocess data (resize, remove noisy images)
+✅ Augment dataset (flip, rotate, add brightness variations)
+✅ Split dataset (train/test/validation split)
